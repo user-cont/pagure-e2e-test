@@ -1,0 +1,4 @@
+---
+x86_64:
+- rhel-7-server-rpms
+- rhel-7-server-release-e2e-test-1-rpms
